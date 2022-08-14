@@ -1,0 +1,11 @@
+body{
+    background-color:whitesmoke;
+}
+label{
+    display: flex;
+    padding:13px 13px;
+}
+.row{
+	width:50%;
+	margin:0px auto;
+}
